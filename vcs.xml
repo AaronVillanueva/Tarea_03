@@ -10,6 +10,14 @@
           <option name="url" value="https://github.com/AaronVillanueva/Tarea-05" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AaronVillanueva/Pong/blob/master/pong.py" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AaronVillanueva/Pong" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\CINCONUMBERCERO\PycharmProjects" />
